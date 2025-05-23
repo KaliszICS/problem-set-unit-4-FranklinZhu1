@@ -1,0 +1,12 @@
+K(30%): 100
+I(30%): 93
+C(10%): 95
+A(30%): 96
+95.6%
+
+Missing class documentation at the start of each class (should be before public class)
+Could just return the condition instead of if statement for equals.
+Using a ArrayList internally would simply the coding alot and make it easier to debug and use
+You're adding null cards with addCard when you shouldn't.
+Reuse existing methods (such as addCard) when doing things such as reshuffle.
+draw in player should not add the card if the provided card is null (means the deck is empty)
