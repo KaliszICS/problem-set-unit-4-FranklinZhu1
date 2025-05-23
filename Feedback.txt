@@ -1,8 +1,8 @@
 K(30%): 100
 I(30%): 93
-C(10%): 95
+C(10%): 90
 A(30%): 96
-95.6%
+95.1%
 
 Missing class documentation at the start of each class (should be before public class)
 Could just return the condition instead of if statement for equals.
